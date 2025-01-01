@@ -50,14 +50,14 @@ const Header = () => {
             <div className="flex items-center gap-3">
               <Link href={"/seller"}>
                 <button className="flex items-center bg-orange-600 text-white px-3 py-2 text-sm rounded-lg hover:bg-orange-700 transition">
-                  <PlusCircle className="w-5 h-5 mr-1" />
+                  <PlusCircle className="w-4 h-4 mr-1" />
                   Sell Tickets
                 </button>
               </Link>
 
               <Link href={"/tickets"}>
                 <button className="flex items-center bg-gray-100 text-gray-800 px-3 py-2 text-sm rounded-lg hover:bg-gray-200 transition border border-gray-300">
-                  <Ticket className="w-5 h-5 mr-1" />
+                  <Ticket className="w-4 h-4 mr-2" />
                   My Tickets
                 </button>
               </Link>

@@ -1,47 +1,92 @@
 [
   {
-    "name": "Taylor Swift | The Eras Tour",
-    "description": "Taylor Swift is back with a new tour! Join us for a night of music and fun.",
+    "name": "Coldplay | Music of the Spheres Tour",
+    "description": "Experience Coldplay live as they perform their latest hits in an unforgettable night.",
+    "price": 249.99,
+    "totalTickets": 150,
+    "location": "Wembley Stadium, London",
+    "eventDate": 1733337600000,
+    "userId": "user_6"
+  },
+  {
+    "name": "Ed Sheeran | Mathematics Tour",
+    "description": "Join Ed Sheeran for a soulful evening of music and storytelling.",
+    "price": 179.99,
+    "totalTickets": 200,
+    "location": "Rod Laver Arena, Melbourne",
+    "eventDate": 1735708800000,
+    "userId": "user_7"
+  },
+  {
+    "name": "Harry Styles | Love on Tour",
+    "description": "Don't miss Harry Styles in one of his most exciting tours yet!",
     "price": 199.99,
-    "totalTickets": 100,
+    "totalTickets": 120,
     "location": "Madison Square Garden, New York",
-    "eventDate": 1635724800000,
-    "userId": "user_1"
+    "eventDate": 1732992000000,
+    "userId": "user_8"
   },
   {
-    "name": "The Weeknd | After Hours Tour",
-    "description": "The Weeknd is back with a new tour! Join us for a night of music and fun.",
+    "name": "Post Malone | Twelve Carat Tour",
+    "description": "Post Malone returns to the stage with a stunning new tour. Be there!",
+    "price": 189.99,
+    "totalTickets": 100,
+    "location": "Scotiabank Arena, Toronto",
+    "eventDate": 1738128000000,
+    "userId": "user_9"
+  },
+  {
+    "name": "Adele | 30 Live",
+    "description": "Experience the magic of Adele as she performs hits from her latest album.",
+    "price": 299.99,
+    "totalTickets": 80,
+    "location": "The O2 Arena, London",
+    "eventDate": 1732560000000,
+    "userId": "user_10"
+  },
+  {
+    "name": "Elton John | Farewell Yellow Brick Road",
+    "description": "Elton John's final tour – a once-in-a-lifetime experience.",
+    "price": 349.99,
+    "totalTickets": 100,
+    "location": "Mercedes-Benz Arena, Berlin",
+    "eventDate": 1736659200000,
+    "userId": "user_11"
+  },
+  {
+    "name": "Taylor Swift | Midnight Memories Tour",
+    "description": "Taylor Swift brings her enchanting music to the stage once again.",
+    "price": 299.99,
+    "totalTickets": 150,
+    "location": "Allegiant Stadium, Las Vegas",
+    "eventDate": 1732128000000,
+    "userId": "user_12"
+  },
+  {
+    "name": "Beyoncé | Renaissance World Tour",
+    "description": "Get ready to experience the queen herself live in concert.",
+    "price": 399.99,
+    "totalTickets": 200,
+    "location": "SoFi Stadium, Los Angeles",
+    "eventDate": 1739337600000,
+    "userId": "user_13"
+  },
+  {
+    "name": "Foo Fighters | Concrete and Gold Tour",
+    "description": "Feel the energy of Foo Fighters live in an electrifying concert.",
     "price": 149.99,
-    "totalTickets": 100,
-    "location": "Staples Center, Los Angeles",
-    "eventDate": 1635724800000,
-    "userId": "user_2"
-  },
-  {
-    "name": "Billie Eilish | Happier Than Ever Tour",
-    "description": "Billie Eilish is back with a new tour! Join us for a night of music and fun.",
-    "price": 99.99,
-    "totalTickets": 100,
+    "totalTickets": 120,
     "location": "United Center, Chicago",
-    "eventDate": 1635724800000,
-    "userId": "user_3"
+    "eventDate": 1731696000000,
+    "userId": "user_14"
   },
   {
-    "name": "Ariana Grande | Sweetener Tour",
-    "description": "Ariana Grande is back with a new tour! Join us for a night of music and fun.",
-    "price": 199.99,
-    "totalTickets": 100,
-    "location": "TD Garden, Boston",
-    "eventDate": 1635724800000,
-    "userId": "user_4"
-  },
-  {
-    "name": "Drake | Certified",
-    "description": "Drake is back with a new tour! Join us for a night of music and fun.",
-    "price": 199.99,
-    "totalTickets": 100,
-    "location": "American Airlines Center, Dallas",
-    "eventDate": 1635724800000,
-    "userId": "user_5"
+    "name": "Bruno Mars | 24K Magic Tour",
+    "description": "Dance the night away with Bruno Mars and his spectacular performance.",
+    "price": 229.99,
+    "totalTickets": 180,
+    "location": "Barclays Center, Brooklyn",
+    "eventDate": 1737436800000,
+    "userId": "user_15"
   }
 ]
