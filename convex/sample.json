@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Taylor Swift | The Eras Tour",
+    "description": "Taylor Swift is back with a new tour! Join us for a night of music and fun.",
+    "price": 199.99,
+    "totalTickets": 100,
+    "location": "Madison Square Garden, New York",
+    "eventDate": 1635724800000,
+    "userId": "user_1"
+  },
+  {
+    "name": "The Weeknd | After Hours Tour",
+    "description": "The Weeknd is back with a new tour! Join us for a night of music and fun.",
+    "price": 149.99,
+    "totalTickets": 100,
+    "location": "Staples Center, Los Angeles",
+    "eventDate": 1635724800000,
+    "userId": "user_2"
+  },
+  {
+    "name": "Billie Eilish | Happier Than Ever Tour",
+    "description": "Billie Eilish is back with a new tour! Join us for a night of music and fun.",
+    "price": 99.99,
+    "totalTickets": 100,
+    "location": "United Center, Chicago",
+    "eventDate": 1635724800000,
+    "userId": "user_3"
+  },
+  {
+    "name": "Ariana Grande | Sweetener Tour",
+    "description": "Ariana Grande is back with a new tour! Join us for a night of music and fun.",
+    "price": 199.99,
+    "totalTickets": 100,
+    "location": "TD Garden, Boston",
+    "eventDate": 1635724800000,
+    "userId": "user_4"
+  },
+  {
+    "name": "Drake | Certified",
+    "description": "Drake is back with a new tour! Join us for a night of music and fun.",
+    "price": 199.99,
+    "totalTickets": 100,
+    "location": "American Airlines Center, Dallas",
+    "eventDate": 1635724800000,
+    "userId": "user_5"
+  }
+]
