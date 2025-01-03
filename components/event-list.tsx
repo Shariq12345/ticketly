@@ -11,7 +11,7 @@ const EventList = () => {
 
   if (!events) {
     return (
-      <div className="min-h-[400px] flex items-center justify-center">
+      <div className="min-h-screen flex items-center justify-center">
         <Loader message="Loading events..." />
       </div>
     );
@@ -35,7 +35,7 @@ const EventList = () => {
           </p>
         </div>
         <div className="bg-white px-4 py-2 rounded-lg shadow-sm border border-gray-100">
-          <div className="flex items-center gap-2 text-gray-600">
+          <div className="flex items-center gap-2 text-gray-600 text-sm">
             <CalendarDays className="size-5" />
             <span className="font-medium">
               {upcomingEvents.length} Upcoming Events

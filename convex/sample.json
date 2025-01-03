@@ -1,7 +1,7 @@
 [
   {
     "name": "Coldplay | Music of the Spheres Tour",
-    "description": "Experience Coldplay live as they perform their latest hits in an unforgettable night.",
+    "description": "Immerse yourself in a night of breathtaking music and unforgettable visuals as Coldplay brings their 'Music of the Spheres' tour to life. Known for their high-energy performances and spectacular stage designs, this is your chance to hear hits like 'Higher Power' and 'My Universe' alongside timeless classics. Let the vibrant atmosphere of Wembley Stadium amplify the magic of this iconic band's live show.",
     "price": 249.99,
     "totalTickets": 150,
     "location": "Wembley Stadium, London",
@@ -10,7 +10,7 @@
   },
   {
     "name": "Ed Sheeran | Mathematics Tour",
-    "description": "Join Ed Sheeran for a soulful evening of music and storytelling.",
+    "description": "Join Ed Sheeran for an intimate and moving evening filled with heartfelt melodies and personal stories. Featuring tracks from his recent albums and chart-topping favorites like 'Perfect' and 'Shape of You,' Ed creates a uniquely personal connection with every audience. Set in the world-class Rod Laver Arena, this is an event not to be missed by true music lovers.",
     "price": 179.99,
     "totalTickets": 200,
     "location": "Rod Laver Arena, Melbourne",
@@ -19,7 +19,7 @@
   },
   {
     "name": "Harry Styles | Love on Tour",
-    "description": "Don't miss Harry Styles in one of his most exciting tours yet!",
+    "description": "Harry Styles is back on the road with 'Love on Tour,' a celebration of music, individuality, and pure joy. Experience the electrifying energy of Harry's hit songs like 'Watermelon Sugar' and 'As It Was' performed live in the iconic Madison Square Garden. With a dazzling production and Harry’s unmatched charisma, this show promises to be a night to remember.",
     "price": 199.99,
     "totalTickets": 120,
     "location": "Madison Square Garden, New York",
@@ -28,7 +28,7 @@
   },
   {
     "name": "Post Malone | Twelve Carat Tour",
-    "description": "Post Malone returns to the stage with a stunning new tour. Be there!",
+    "description": "Witness Post Malone's return to the stage in his most ambitious tour yet, 'Twelve Carat Tour.' Known for his genre-bending sound and emotional performances, Post will deliver hits like 'Circles' and 'Rockstar' alongside new music. The Scotiabank Arena sets the perfect stage for a night of music and connection with one of the most influential artists of our time.",
     "price": 189.99,
     "totalTickets": 100,
     "location": "Scotiabank Arena, Toronto",
@@ -37,7 +37,7 @@
   },
   {
     "name": "Adele | 30 Live",
-    "description": "Experience the magic of Adele as she performs hits from her latest album.",
+    "description": "Step into an evening of soul-stirring vocals and raw emotion as Adele performs songs from her critically acclaimed album, '30,' alongside beloved classics like 'Someone Like You.' At The O2 Arena, her incredible voice and heartfelt storytelling will captivate you in a performance that feels both grand and deeply personal.",
     "price": 299.99,
     "totalTickets": 80,
     "location": "The O2 Arena, London",
@@ -46,7 +46,7 @@
   },
   {
     "name": "Elton John | Farewell Yellow Brick Road",
-    "description": "Elton John's final tour – a once-in-a-lifetime experience.",
+    "description": "Celebrate the legacy of a music icon with Elton John's 'Farewell Yellow Brick Road' tour. In what promises to be a career-defining show, Elton performs his greatest hits, from 'Rocket Man' to 'Tiny Dancer,' in the stunning Mercedes-Benz Arena. This is your last chance to see the legend live on his final tour.",
     "price": 349.99,
     "totalTickets": 100,
     "location": "Mercedes-Benz Arena, Berlin",
@@ -55,7 +55,7 @@
   },
   {
     "name": "Taylor Swift | Midnight Memories Tour",
-    "description": "Taylor Swift brings her enchanting music to the stage once again.",
+    "description": "Experience the enchantment of Taylor Swift live as she takes you through a musical journey featuring hits from her latest album and fan favorites spanning her career. From poetic ballads to high-energy anthems, Taylor’s dynamic performance at Allegiant Stadium will leave you spellbound.",
     "price": 299.99,
     "totalTickets": 150,
     "location": "Allegiant Stadium, Las Vegas",
@@ -64,7 +64,7 @@
   },
   {
     "name": "Beyoncé | Renaissance World Tour",
-    "description": "Get ready to experience the queen herself live in concert.",
+    "description": "Prepare for a night of unmatched artistry and showmanship as Beyoncé takes the stage on her 'Renaissance World Tour.' Known for her iconic performances and powerful vocals, Queen Bey will perform chart-toppers from her extensive catalog. SoFi Stadium will transform into a celebration of music, dance, and inspiration.",
     "price": 399.99,
     "totalTickets": 200,
     "location": "SoFi Stadium, Los Angeles",
@@ -73,7 +73,7 @@
   },
   {
     "name": "Foo Fighters | Concrete and Gold Tour",
-    "description": "Feel the energy of Foo Fighters live in an electrifying concert.",
+    "description": "Feel the raw power and energy of one of rock's most iconic bands as Foo Fighters bring their 'Concrete and Gold' tour to the United Center. With electrifying performances of songs like 'Everlong' and 'The Pretender,' this is an unforgettable night for rock enthusiasts and casual fans alike.",
     "price": 149.99,
     "totalTickets": 120,
     "location": "United Center, Chicago",
@@ -82,7 +82,7 @@
   },
   {
     "name": "Bruno Mars | 24K Magic Tour",
-    "description": "Dance the night away with Bruno Mars and his spectacular performance.",
+    "description": "Dance and groove to the infectious rhythms of Bruno Mars' '24K Magic Tour.' Featuring unforgettable hits like 'Uptown Funk' and '24K Magic,' Bruno’s electrifying stage presence and dynamic showmanship will light up the Barclays Center. This is more than a concert—it’s a party you won’t want to miss.",
     "price": 229.99,
     "totalTickets": 180,
     "location": "Barclays Center, Brooklyn",
