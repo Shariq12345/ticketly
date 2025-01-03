@@ -72,17 +72,17 @@ const EventCard = ({ eventId }: EventCardProps) => {
 
     if (queuePosition.position === 2) {
       return (
-        <div className="flex flex-col lg:flex-row items-center justify-between p-3 bg-amber-50 rounded-lg border border-amber-100">
+        <div className="flex flex-col lg:flex-row items-center justify-between p-3 bg-orange-50 rounded-lg border border-orange-100">
           <div className="flex items-center">
-            <CircleArrowRight className="w-5 h-5 text-amber-500 mr-2" />
-            <span className="text-amber-700 font-medium">
+            <CircleArrowRight className="w-5 h-5 text-orange-500 mr-2" />
+            <span className="text-orange-700 font-medium">
               You&apos;re next in line! (Queue position:{" "}
               {queuePosition.position})
             </span>
           </div>
           <div className="flex items-center">
-            <LoaderCircle className="w-4 h-4 mr-1 animate-spin text-amber-500" />
-            <span className="text-amber-600 text-sm">Waiting for ticket</span>
+            <LoaderCircle className="w-4 h-4 mr-1 animate-spin text-orange-500" />
+            <span className="text-orange-600 text-sm">Waiting for ticket</span>
           </div>
         </div>
       );
@@ -215,7 +215,7 @@ const EventCard = ({ eventId }: EventCardProps) => {
                   : "bg-green-50 text-green-700"
               )}
             >
-              ₹{event.price.toFixed(2)}
+              ${event.price.toFixed(2)}
             </span>
             {availability.purchasedTickets >= availability.totalTickets && (
               <span className="px-4 py-1.5 bg-red-50 text-red-700 font-semibold rounded-md text-sm">
@@ -249,7 +249,7 @@ const EventCard = ({ eventId }: EventCardProps) => {
               {availability.totalTickets - availability.purchasedTickets} /{" "}
               {availability.totalTickets} available
               {!isPastEvent && availability.activeOffers > 0 && (
-                <span className="text-amber-600 text-sm ml-2">
+                <span className="text-orange-600 text-sm ml-2">
                   ({availability.activeOffers}{" "}
                   {availability.activeOffers === 1 ? "person" : "people"} trying
                   to buy)
@@ -263,7 +263,7 @@ const EventCard = ({ eventId }: EventCardProps) => {
           {event.description}
         </p>
 
-        <div onClick={(e) => e.stopPropagation()}>
+        <div className="relative" onClick={(e) => e.stopPropagation()}>
           {!isPastEvent && renderTicketStatus()}
         </div>
       </div>

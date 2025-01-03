@@ -85,7 +85,7 @@ export default function EventPage() {
                       <span className="text-sm font-medium">Price</span>
                     </div>
                     <p className="text-gray-900 font-bold">
-                      ₹{event.price.toFixed(2)}
+                      ${event.price.toFixed(2)}
                     </p>
                   </div>
 
